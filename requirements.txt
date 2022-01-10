@@ -39,7 +39,6 @@ brotlipy==0.7.0
 certifi==2020.12.5
 cffi @ file:///opt/concourse/worker/volumes/live/0ef369cc-6ba0-47e7-75da-208c6400381d/volume/cffi_1613246948181/work
 chardet @ file:///opt/concourse/worker/volumes/live/c798b2ee-88b1-4341-6830-161a92c2399e/volume/chardet_1607706832595/work
-click @ file:///home/linux1/recipes/ci/click_1610990599742/work
 cloudpickle @ file:///tmp/build/80754af9/cloudpickle_1598884132938/work
 clyent==1.2.2
 colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
@@ -69,7 +68,7 @@ fastcache==1.1.0
 ffmpy==0.3.0
 filelock==3.4.0
 flake8 @ file:///tmp/build/80754af9/flake8_1615834841867/work
-Flask @ file:///home/ktietz/src/ci/flask_1611932660458/work
+Flask==1.1.2
 Flask-CacheBuster==1.0.0
 Flask-Cors==3.0.10
 Flask-Login==0.5.0
@@ -97,10 +96,9 @@ ipython @ file:///opt/concourse/worker/volumes/live/c432d8a7-d8f3-4e24-590f-f03d
 ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
 ipywidgets @ file:///tmp/build/80754af9/ipywidgets_1610481889018/work
 isort @ file:///tmp/build/80754af9/isort_1616355431277/work
-itsdangerous @ file:///home/ktietz/src/ci/itsdangerous_1611932585308/work
+
 jdcal==1.4.1
 jedi @ file:///opt/concourse/worker/volumes/live/12a2c347-a8e4-4b62-5b19-dcc92a2254f6/volume/jedi_1606932552286/work
-Jinja2 @ file:///tmp/build/80754af9/jinja2_1612213139570/work
 joblib @ file:///tmp/build/80754af9/joblib_1613502643832/work
 json5==0.9.5
 jsonschema @ file:///tmp/build/80754af9/jsonschema_1602607155483/work
@@ -122,7 +120,6 @@ llvmlite==0.36.0
 locket==0.2.1
 lxml @ file:///opt/concourse/worker/volumes/live/42fc56a4-88b4-4605-6037-9605f4e5eeeb/volume/lxml_1616443240194/work
 markdown2==2.4.2
-MarkupSafe @ file:///opt/concourse/worker/volumes/live/cb778296-98db-45ad-411e-6f726e102dc3/volume/markupsafe_1594371638608/work
 matplotlib==3.5.1
 mccabe==0.6.1
 mistune @ file:///opt/concourse/worker/volumes/live/95802d64-d39c-491b-74ce-b9326880ca54/volume/mistune_1594373201816/work
@@ -265,7 +262,6 @@ virtualenv==20.10.0
 watchdog @ file:///opt/concourse/worker/volumes/live/ba071b65-d6ec-4539-5875-0791be503584/volume/watchdog_1612471127391/work
 wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
 webencodings==0.5.1
-Werkzeug @ file:///home/ktietz/src/ci/werkzeug_1611932622770/work
 widgetsnbextension==3.5.1
 wrapt @ file:///opt/concourse/worker/volumes/live/e3646d84-e961-4523-6bed-01532273c57e/volume/wrapt_1597851473852/work
 wurlitzer @ file:///opt/concourse/worker/volumes/live/bf42cded-f988-433c-5eca-a88c3905d29b/volume/wurlitzer_1617224650715/work
