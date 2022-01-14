@@ -8,7 +8,7 @@ import pickle
 import numpy as np
 
 app=Flask(__name__)
-data = pd.read_csv('/users/rishabhtiwari/documents/GitHub/Bangalore-housing/template/cleaned_bangalore_data.csv')
+data = pd.read_csv('/users/rishabhtiwari/documents/GitHub/Bangalore-housing/cleaned_bangalore_data.csv')
 pipe = pickle.load(open("RidgeModel.pkl",'rb'))
 
 @app.route('/')
