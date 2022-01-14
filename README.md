@@ -1,3 +1,3 @@
 # Bangalore House Price Predictor
-Interface of the application
+Interface of the Application
 ![](images/Screenshot.png)
