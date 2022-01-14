@@ -1,3 +1,3 @@
-# Bangalore housing
- House predicting
+# Bangalore house Predictor
+Interface of the application
 ![](images/Screenshot.png)
